@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item1"
+        android:title="@string/titulo_item1"
+        android:onClick="onOptionsItemSelect"/>
+    <item android:title="@string/titulo_item2"
+        android:id="@+id/item2"
+        android:onClick="onOptionsItemSelect"/>
+    <item android:title="@string/titulo_item3"
+        android:id="@+id/item3"
+        android:onClick="onOptionsItemSelect"/>
+    <item android:title="@string/titulo_item4"
+        android:id="@+id/item4"
+        android:onClick="onOptionsItemSelect"/>
+</menu>

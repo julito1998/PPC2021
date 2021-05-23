@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">practica2</string>
+    <string name="titulo_item1">Actividad 1</string>
+    <string name="titulo_item2">Actividad 2</string>
+    <string name="titulo_item3">Actividad 3</string>
+    <string name="titulo_item4">Actividad 4</string>
+
+    <!--actividad 4 -->
+    <string name="viewActivity">viewActivity></string>
+    <string name="tomar_foto">Tomar foto</string>
+    <string name="OnclickTomarFoto">tomarFoto</string>
+
+    <!--actividad 2 -->
+    <string name="sumar">Sumar (+)</string>
+    <string name="restar">Restar (-)</string>
+    <string name="multiplicar">Multiplicar (*)</string>
+    <string name="dividir">Dividir (/)</string>
+    <string name="operandoA">Operando A: </string>
+    <string name="operandoB">Operando B: </string>
+    <string name="resultado">Resultado: </string>
+
+    <!--actividad 3 -->
+    <string name="dimensionesEnDP">Obtener Dimension de la Pantalla en DP</string>
+    <string name="dimensionesEnPixel">Obtener Dimension de la Pantalla en Pixel</string>
+
+    <!--actividad 1 -->
+    <string name="cambiar_texto">Cambiar texto</string>
+    <string name="enviar_texto">Enviar</string>
+    <string name="ok">Ok</string>
+    <string name="Cancel">Cancel</string>
+</resources>
