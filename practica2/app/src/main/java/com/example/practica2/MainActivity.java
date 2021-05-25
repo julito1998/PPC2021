@@ -1,6 +1,7 @@
 package com.example.practica2;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.Toolbar;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -18,14 +19,17 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        /*Toolbar toolbar = findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);*/
     }
-    public boolean onCreateOptionsMenu(Menu menu){
+  /*  public boolean onCreateOptionsMenu(Menu menu){
         getMenuInflater().inflate(R.menu.menu_actividades,menu);
         return true;
-    }
+    }*/
 
     public boolean onOptionsItemSelect(MenuItem item){
-        Intent intent;
+    int id =item.getItemId();
+        /*       Intent intent;
         switch(item.getItemId()) {
             case R.id.item1:
                  intent = new Intent(this, ViewOneActivity.class);
@@ -43,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
                  intent = new Intent(this, TomarFotoActivity.class);
                 startActivity(intent);
                 break;
-        }
+        }*/
         return super.onOptionsItemSelected(item);
     }
 }

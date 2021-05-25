@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c586b05-d89d-464e-bb32-d3651b3e8b5e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PPC2021.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica2/.idea/dictionaries/Nacho.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica2/app/src/main/java/com/example/practica2/ActivityMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica2/app/src/main/res/layout/activity_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica2/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practica2/app/src/main/res/navigation/nav.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practica 2- Actividad 5.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Practica 2- Actividad 5.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practica2/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/practica2/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practica2/app/src/main/java/com/example/practica2/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/practica2/app/src/main/java/com/example/practica2/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practica2/app/src/main/java/com/example/practica2/actividad2/CalculadoraActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/practica2/app/src/main/java/com/example/practica2/actividad2/CalculadoraActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practica2/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practica2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practica2/app/src/main/res/menu/menu_actividades.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practica2/app/src/main/res/menu/menu_actividades.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practica2/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practica2/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practica2/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practica2/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sxQLVIKFQ3ezFIZdj5qaqxmMby" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/practica2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c586b05-d89d-464e-bb32-d3651b3e8b5e" name="Default Changelist" comment="" />
+      <created>1621811704236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621811704236</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1621811766855">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1621811766855" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1621971028434">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1621971028434" />
+    <state width="1323" height="344" key="GridCell.Tab.0.bottom" timestamp="1621811931409">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="344" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1621811931409" />
+    <state width="1323" height="344" key="GridCell.Tab.0.center" timestamp="1621811931408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="344" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1621811931408" />
+    <state width="1323" height="344" key="GridCell.Tab.0.left" timestamp="1621811931407">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="344" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1621811931407" />
+    <state width="1323" height="344" key="GridCell.Tab.0.right" timestamp="1621811931408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="344" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1621811931408" />
+  </component>
+</project>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/activity_menu">
+
+    <fragment
+        android:id="@+id/activity_menu"
+        android:name="com.example.practica2.ActivityMenu"
+        android:label="@string/titulo_menu"
+        tools:layout="@layout/activity_menu">
+        <action
+            android:id="@+id/action_activity_menu_to_activity_one"
+            app:destination="@id/activity_one" />
+        <action
+            android:id="@+id/action_activity_menu_to_activity_calculadora"
+            app:destination="@id/activity_calculadora" />
+        <action
+            android:id="@+id/action_activity_menu_to_activity_dimensiones"
+            app:destination="@id/activity_dimensiones" />
+        <action
+            android:id="@+id/action_activity_menu_to_activity_tomar_foto"
+            app:destination="@id/activity_tomar_foto" />
+    </fragment>
+    <fragment
+        android:id="@+id/activity_one"
+        android:name="com.example.practica2.actividad1.ViewOneActivity"
+        android:label="@string/titulo_item1"
+        tools:layout="@layout/activity_one">
+    </fragment>
+    <fragment
+        android:id="@+id/activity_calculadora"
+        android:name="com.example.practica2.actividad2.CalculadoraActivity"
+        android:label="@string/titulo_item2"
+        tools:layout="@layout/activity_calculadora">
+    </fragment>
+    <fragment
+        android:id="@+id/activity_dimensiones"
+        android:name="com.example.practica2.actividad3.DimensionesDePantallaActivity"
+        android:label="@string/titulo_item3"
+        tools:layout="@layout/activity_dimensiones">
+    </fragment>
+    <fragment
+        android:id="@+id/activity_tomar_foto"
+        android:name="com.example.practica2.actividad4.TomarFotoActivity"
+        android:label="@string/titulo_item4"
+        tools:layout="@layout/activity_tomar_foto">
+    </fragment>
+</navigation>
