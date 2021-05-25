@@ -22,32 +22,32 @@ public class MainActivity extends AppCompatActivity {
         /*Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);*/
     }
-  /*  public boolean onCreateOptionsMenu(Menu menu){
+    public boolean onCreateOptionsMenu(Menu menu){
         getMenuInflater().inflate(R.menu.menu_actividades,menu);
         return true;
-    }*/
+    }
 
     public boolean onOptionsItemSelect(MenuItem item){
-    int id =item.getItemId();
-        /*       Intent intent;
+        int id =item.getItemId();
+        Intent intent;
         switch(item.getItemId()) {
-            case R.id.item1:
+            case R.id.activity_one:
                  intent = new Intent(this, ViewOneActivity.class);
                 startActivity(intent);
                 break;
-            case R.id.item2:
+            case R.id.activity_calculadora:
                  intent = new Intent(this, CalculadoraActivity.class);
                 startActivity(intent);
                 break;
-            case R.id.item3:
+            case R.id.activity_dimensiones:
                  intent = new Intent(this, DimensionesDePantallaActivity.class);
                 startActivity(intent);
                 break;
-            case R.id.item4:
+            case R.id.activity_tomar_foto:
                  intent = new Intent(this, TomarFotoActivity.class);
                 startActivity(intent);
                 break;
-        }*/
+        }
         return super.onOptionsItemSelected(item);
     }
 }
