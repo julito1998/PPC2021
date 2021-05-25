@@ -68,7 +68,6 @@ public class CalculadoraActivity extends AppCompatActivity {
         if (operandoB != 0 ){
              resultadoOperando=operandoA/operandoB;
         }
-        resultadoOperando=0.0;
         resultado.setText(String.valueOf(resultadoOperando));
     }
 }
